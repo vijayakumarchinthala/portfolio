@@ -1,0 +1,10 @@
+{
+    "object": {
+        "list": [
+            {
+                "name": "reference",
+                "office": "Nigel Rees",
+                "position": "Sayings of the Century",
+                "salary": 8.95
+            }]
+}
